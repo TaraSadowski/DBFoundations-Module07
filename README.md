@@ -9,6 +9,7 @@ Assignment 07
 https://github.com/TaraSadowski/DBFoundations-Module07
 
 <p align="center">
+
 ## Functions
 
 #### Introduction
