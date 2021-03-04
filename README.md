@@ -14,7 +14,9 @@ https://github.com/TaraSadowski/DBFoundations-Module07
 
 <div align="center">
 
+
 ## Functions
+
 
 #### Introduction
 </div>
@@ -22,10 +24,12 @@ Functions are procedures that return data, whether a single value of a table tha
 <div align="center">
 
 
+
 #### When User Defined Functions are Used
 </div>
 User-defined functions (UDFs) are functions that the user can preform that are not built-in functions in SQL Server.  These would return special values or identifiers that would be useful in a certain query.
 <div align="center"> 
+
 
 #### Differences Between Scalar, Inline, and Multi-Statement Functions
 </div>
@@ -37,6 +41,7 @@ Scalar functions return a single value.  Inline and multi-statement functions ca
 
 *Figure 1 - Multi-Statement and Inline Function differences*
 <div align="center">
+
 
 #### Conclusion
 </div>
