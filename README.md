@@ -33,6 +33,7 @@ Scalar functions return a single value.  Inline and multi-statement functions ca
 <p align="center">  
 
 ![image](https://user-images.githubusercontent.com/79488525/109891622-3c838180-7c3e-11eb-86e4-51dd62390cd2.png)
+
 Figure 1 - Multi-Statement and Inline Function differences
 
 #### Conclusion
