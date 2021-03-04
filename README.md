@@ -22,7 +22,8 @@ https://github.com/TaraSadowski/DBFoundations-Module07
 ### Differences Between Scalar, Inline, and Multi-Statement Functions
 
 	Scalar functions return a single value.  Inline and multi-statement functions can return tables (figure 1).  Multi-Statement functions, however, can have multiple statements – the function is indicated within BEGIN and END operator.
- 
+
+![image](https://user-images.githubusercontent.com/79488525/109891622-3c838180-7c3e-11eb-86e4-51dd62390cd2.png)
 Figure 1 - Multi-Statement and Inline Function differences
 
 ### Conclusion
