@@ -36,6 +36,7 @@ Scalar functions return a single value.  Inline and multi-statement functions ca
 </p>
 Figure 1 - Multi-Statement and Inline Function differences
 <div align="center">
+
 #### Conclusion
 </div>
 Functions are very useful in  deriving data that is not stored within the database, or returning data based upon user parameters.  Whether simply changing the format, transforming the data, or providing user-defined filters and parameters, functions are a vital part of searches and queries.
