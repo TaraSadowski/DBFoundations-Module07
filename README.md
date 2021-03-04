@@ -1,12 +1,16 @@
 # DBFoundations-Module07
 Repository for IT FDN 130 A Wi 21: Foundations Of Databases &amp; SQL Programming
 
-
 Tara Sadowski
+
 03/03/21
+
 IT FDN 130 A Wi 21: Foundations Of Databases & SQL Programming
+
 Assignment 07
+
 https://github.com/TaraSadowski/DBFoundations-Module07
+
 
 <p align="center">
 
